@@ -1,8 +1,6 @@
 # ¡Hola! Soy Gabriel Pagua 👋
 
-Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT Uruguay). Vengo de un background en diseño y hoy estoy metido de lleno en programación, despliegue e infraestructura.
-
-## 💻 Programación
+Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT Uruguay) y Licenciado en Diseño de Comunicación Visual. Vengo de un background en diseño y hoy estoy metido de lleno en programación, despliegue e infraestructura.
 
 **Lenguajes y fundamentos**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
