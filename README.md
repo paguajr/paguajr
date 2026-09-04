@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gabriel Pagua 👋
 
-Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT Uruguay), en camino de convertirme en desarrollador. Vengo de un background en diseño y hoy estoy metido de lleno en programación, despliegue e infraestructura.
+Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT Uruguay). Vengo de un background en diseño y hoy estoy metido de lleno en programación, despliegue e infraestructura.
 
 ## 💻 Programación
 
@@ -10,33 +10,21 @@ Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT U
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- Programación orientada a objetos (clases, encapsulamiento, `this`)
-- DOM, eventos y manipulación dinámica de interfaces
-- Fetch API, `async`/`await`
-- Métodos de array: `find`, `map`, `filter`
-- Arquitectura modular de proyectos JS
+- Programación orientada a objetos, DOM, eventos, manipulación dinámica de interfaces, fetch AP, arquitectura modular de proyectos JS
 
 **Despliegue e infraestructura**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- AWS EC2 y AWS Amplify (despliegue continuo desde GitHub)
-- Configuración de servidores web: Apache e IIS
-- Administración de FTP con FileZilla Server
-- Certificados SSL y configuración HTTPS
-
-**En camino a aprender**
-- Bases de datos (SQL, conexión con Node.js y `mysql2`)
-- Algoritmos y estructuras de datos
-- Desarrollo Full Stack
+- AWS EC2 y AWS Amplify, configuración de servidores web: Apache e IIS, administración de FTP con FileZilla Server, certificados SSL y configuración HTTPS
 
 ## 🤖 IA aplicada al desarrollo
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Uso IA (ChatGPT, Claude, Copilot, y modelos locales con Ollama) como copiloto de desarrollo: diagnóstico técnico, resolución de errores y aceleración de tareas repetitivas.
+Uso IA (ChatGPT, Claude, Copilot) como copiloto de desarrollo: diagnóstico técnico, resolución de errores y aceleración de tareas repetitivas.
 
 ---
 
