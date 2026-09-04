@@ -19,13 +19,6 @@ Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT U
 
 - AWS EC2 y AWS Amplify, configuración de servidores web: Apache e IIS, administración de FTP con FileZilla Server, certificados SSL y configuración HTTPS
 
-## 🤖 IA aplicada al desarrollo
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-Uso IA (ChatGPT, Claude, Copilot) como copiloto de desarrollo: diagnóstico técnico, resolución de errores y aceleración de tareas repetitivas.
-
 ---
 
 ## 🎨 Diseño
