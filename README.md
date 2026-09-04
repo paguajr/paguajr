@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gabriel Pagua 👋
+# Hola! Soy Gabriel Pagua 👋
 
 Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT Uruguay) y Licenciado en Diseño de Comunicación Visual. Vengo de un background en diseño y hoy estoy metido de lleno en programación, despliegue e infraestructura.
 
