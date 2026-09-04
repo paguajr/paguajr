@@ -19,10 +19,6 @@ Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT U
 
 - AWS EC2 y AWS Amplify, configuración de servidores web: Apache e IIS, administración de FTP con FileZilla Server, certificados SSL y configuración HTTPS
 
----
-
-📍 Montevideo, Uruguay
-
 <!--
 **paguajr/paguajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
