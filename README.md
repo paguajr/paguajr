@@ -21,16 +21,6 @@ Estudiante de **Analista en Tecnologías de la Información** (Universidad ORT U
 
 ---
 
-## 🎨 Diseño
-
-Antes de esto, pasé más de 4 años como diseñador freelance (Licenciado en Diseño de Comunicación Visual), trabajando con Adobe Creative Cloud y Figma en proyectos de identidad visual, redes sociales y piezas audiovisuales.
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
 📍 Montevideo, Uruguay
 
 <!--
